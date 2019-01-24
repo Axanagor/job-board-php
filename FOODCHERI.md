@@ -26,7 +26,7 @@
 **Stack** 
 
 * Symfony2.8 monolithe
-* Nouvelle app propre à côté en Symfony4 + API Plateforme
+* Nouvelle app propre à côté en Symfony4 + API Platform
 * Backoffice: twig et bootstrap
 * ReactJS pour le front
 * AWS pour le Devops
